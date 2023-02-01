@@ -138,7 +138,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #0b6efd87;
+  background-color: #62079687;
   width: 102%;
   height: 0.2em;
   position: absolute;
@@ -153,4 +153,15 @@ header.p-section {
   display: flex;
   align-items: center;
   justify-content: center; 
+}
+
+
+#color-override{
+  background-color: #23023687;
+  border: none; 
+}
+
+#color-override1{
+  background-color: #872fba87;
+  border: none;
 }
