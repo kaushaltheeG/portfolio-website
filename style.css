@@ -30,6 +30,10 @@ sup, .sup {
   font-size: 16px;
 }
 
+.marigin-right{
+  margin-right: 5px;
+}
+
 .underline::after {
   content: ' ';
   border-bottom: 3px solid;
